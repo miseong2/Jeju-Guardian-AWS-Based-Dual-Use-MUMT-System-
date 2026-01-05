@@ -27,8 +27,8 @@
 - **Environment**: Python 3.11, CPU-based Optimization
 
 ## 🚢 Detection Samples (Example)
-![Detection Result](https://github.com/miseong2/Jeju-Guardian-AWS-Based-Dual-Use-MUMT-System/raw/main/Ship-Detection-AI/result_sample.png)
+<img width="1865" height="873" alt="Image" src="https://github.com/user-attachments/assets/3d780e4c-358d-4c31-875f-9666b7673e82" />
+<img width="1865" height="873" alt="Image" src="https://github.com/user-attachments/assets/50050a33-fe6b-4d83-880b-e605a72aa45a" />
+
 > *Note: 구글 어스를 통한 실제 항구 데이터 탐지 결과 (텍스트 라벨 제외 시각화)*
 
----
-**Contact**: 국립한국해양대학교 인공지능공학부 범석 (beomseok@kmou.ac.kr)
