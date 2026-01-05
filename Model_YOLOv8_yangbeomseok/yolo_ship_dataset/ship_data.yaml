@@ -1,0 +1,7 @@
+path: C:/Users/354/jeju/yolo_ship_dataset
+train: train/images
+val: val/images
+
+names:
+  0: ship-L
+  1: ship-S
